@@ -1,7 +1,7 @@
 # DomStudioFacets
 @ 2020 by Andrea Bistacchi, distributed under the GNU AGPL v3.0 license.
 
-Function used for the analysis of data output from CloudCompare facets 
+Matlab script used for the analysis of data output from CloudCompare facets plugin.
 
 Last update 2018/09/12
 
